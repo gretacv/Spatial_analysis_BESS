@@ -32,7 +32,7 @@
 ```
 # Assignment 1
 ```
-3. Commit the changes, optionally edit the commit message.
+4. Commit the changes, optionally edit the commit message.
 
 ## Conclusion
 By following these steps, you will have successfully created a GitHub account, set up a public repository as a landing page, and created a private repository where you can collaborate with others.
