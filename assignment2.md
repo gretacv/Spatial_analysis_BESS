@@ -7,3 +7,4 @@
    'OVERLAY':'C:\\Users\\profesorieu\\Downloads\\segovia_province.gpkg|layername=prov_cyl_recintos',
    'OUTPUT':'ogr:dbname=\'C:/Users/profesorieu/Downloads/solar_exclusion_segovia.gpkg\' table="solar panels" (geom)'})
    ```
+3. Dissolve the solar exclusion in segovia
