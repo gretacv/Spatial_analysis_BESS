@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Location_name": "Riahuelas"
+      },
+      "geometry": {
+        "coordinates": [
+          -3.5156567,
+          41.415757
+        ],
+        "type": "Point"
+      },
+      "id": 0
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location_name": "Riaguas de san Bartolomé"
+      },
+      "geometry": {
+        "coordinates": [
+          -3.5094444,
+          41.439333
+        ],
+        "type": "Point"
+      },
+      "id": 1
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location_name": "Valdevarnes"
+      },
+      "geometry": {
+        "coordinates": [
+          -3.5443889,
+          41.4739167
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location_name": "Alconada de maderuelo"
+      },
+      "geometry": {
+        "coordinates": [
+          -3.507833,
+          41.445889
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}
