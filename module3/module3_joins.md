@@ -62,3 +62,4 @@ The map contains at least:
 - the title
 - reference to the data sources, at least the author/organisation. In this case: GBIF, MAPAMA
 
+![](microtus_frequency.png)
